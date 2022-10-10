@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwikresno&label=Profile%20views&color=0e75b6&style=flat" alt="dwikresno" /> </p>
 
+<img src="https://github.com/dwikresno/dwikresno/blob/main/ytbanner.png">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dwikresno" alt="dwikresno" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
